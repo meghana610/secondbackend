@@ -19,3 +19,4 @@ let person ={
 
 let students = ["akhi","akhila","maggie"]
 console.log("students")
+

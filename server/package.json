@@ -2,8 +2,9 @@
   "name": "todoproject2",
   "version": "1.0.0",
   "main": "index.js",
+  "type": "module",
   "scripts": {
-    "start":"node index.js"
+    "start": "node index.js"
   },
   "keywords": [
     "todo",
@@ -14,5 +15,8 @@
   ],
   "author": "Meghana",
   "license": "ISC",
-  "description": "this is my second back endproject"
+  "description": "this is my second back endproject",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
 }
